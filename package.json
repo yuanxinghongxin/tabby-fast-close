@@ -6,6 +6,11 @@
     "name": "yuanxinghong"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanxinghongxin/tabby-fast-close.git"
+  },
+  "homepage": "https://github.com/yuanxinghongxin/tabby-fast-close#readme",
   "keywords": [
     "tabby-plugin",
     "tabby",
