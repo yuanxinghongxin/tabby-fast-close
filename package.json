@@ -1,6 +1,6 @@
 {
   "name": "tabby-fast-close",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make Cmd+W close local terminal tabs instantly via EOF (Ctrl-D) instead of Tabby's slow close path - without writing any command into shell history.",
   "author": {
     "name": "yuanxinghong"
@@ -43,5 +43,16 @@
     "@angular/core": "^15",
     "rxjs": "^7",
     "tabby-core": "*"
+  },
+  "peerDependenciesMeta": {
+    "@angular/core": {
+      "optional": true
+    },
+    "rxjs": {
+      "optional": true
+    },
+    "tabby-core": {
+      "optional": true
+    }
   }
 }
